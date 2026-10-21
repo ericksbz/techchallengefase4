@@ -1,0 +1,14 @@
+﻿indicador,quantidade
+linhas_lidas,1465
+colunas_lidas,16
+linhas_duplicadas,0
+produtos_unicos,1351
+product_id_duplicados_na_origem,114
+rating_invalido,1
+quantidade_avaliacoes_ausente,2
+preco_original_invalido,0
+preco_descontado_invalido,0
+desconto_fora_do_intervalo,0
+avaliacao_fora_do_intervalo,0
+preco_descontado_maior_que_original,0
+divergencia_desconto_maior_que_1pp,0
