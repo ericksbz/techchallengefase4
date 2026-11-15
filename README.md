@@ -115,3 +115,6 @@ O relatório é atualizado sempre que `etl.py` é executado; portanto, os result
 - `faixa_engajamento` usa quartis da quantidade de avaliações entre os produtos; empates podem reduzir o número efetivo de grupos.
 - O relatório de validação calcula parte das métricas sobre a tabela de produtos deduplicada, conforme a implementação de `etl.py`.
 - A ETL prepara os dados e não executa análise de sentimento sobre o texto das avaliações.
+
+## Antes de visualizar o BI
+- Necessário fazer o download dos arquivos: amazon_feedback_tratado.csv e amazon_produtos_tratado.csv. Após isso edite o caminho no BI alterando o local do arquivo para o que foi baixado.
